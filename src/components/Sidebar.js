@@ -20,7 +20,7 @@ export default class Sidebar extends Component {
                         <img src="dist/img/user2-160x160.jpg" className="img-circle elevation-2" alt="User Image" />
                      </div>
                      <div className="info">
-                        <Link to="/" className="d-block">Administrator</Link>
+                        <Link to="/dashboard" className="d-block">Administrator</Link>
                         {/* <a href="#" className="d-block">Administrator</a> */}
                      </div>
                   </div>
@@ -40,7 +40,7 @@ export default class Sidebar extends Component {
                            </a>
                         </li> */}
                         <li className="nav-item has-treeview">
-                           <a href="#" className="nav-link">
+                           <a className="nav-link">
                               <i className="nav-icon fas fa-copy" />
                               <p>
                                  Master Data
