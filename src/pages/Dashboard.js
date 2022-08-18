@@ -193,7 +193,7 @@ function Dashboard() {
                            {/* Add the bg color to the header using any of the bg-* classes */}
                            <div className="widget-user-header bg-warning">
                               <div className="widget-user-image">
-                                 <img className="img-circle elevation-2" src="../dist/img/user7-128x128.jpg" alt="User Avatar" />
+                                 <img className="img-circle elevation-2" src="../dist/img/user1-128x128.jpg" alt="User Avatar" />
                               </div>
                               {/* /.widget-user-image */}
                               <h3 className="widget-user-username">Nadia Carmichael</h3>

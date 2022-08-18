@@ -4,8 +4,8 @@ export default class Maintenance extends Component {
    render() {
       return (
          <div>
-            <div class="content-wrapper">
-               <div>
+            <div className="content-wrapper">
+               <div className='container-fluid'>
                   {/* Content Header (Page header) */}
                   <section className="content-header">
                      <div className="container-fluid">
